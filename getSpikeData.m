@@ -2,7 +2,7 @@
 %%%% LC Data Analysis
 %%%% SCRIPT TO READ CONTINOUS SPIKING DATA FROM TDT BLOCKS AND STORE IT IN A RAW BINARY FILE
 %%%% THIS SCRIPT PREPARES THE DATA FOR SPIKE SORTING USING SPYKING CIRCUS
-%% Read TDT blocks and save each block to a mat file
+%% -------------------------------------------------------------------------------------------------------------------------------
 clc; clear; close;
 disp('running...');
 root = 'Z:\Riera Lab\LC Recordings\PD_342\'; % Modify the root and savepath based on the location of your data
