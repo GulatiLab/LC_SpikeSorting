@@ -1,0 +1,8 @@
+total_nb_channels = 1
+radius            = 100
+
+channel_groups = {
+    1: {'channels': [0],
+        'geometry': {0: [0.0 , 0.0]},
+		'graph' : []},
+}
